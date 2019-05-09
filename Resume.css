@@ -21,7 +21,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 100%;
   border: 10px solid #e57373;
 }
 
@@ -48,6 +48,7 @@ footer {
 #NS {
   height: 20%;
 }
+
 li {
 	color: black;
 } /*ends media query*/
